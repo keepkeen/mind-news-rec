@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+.DS_Store
+.venv/
+data/
+artifacts/
+*.zip
+evaluate.py
